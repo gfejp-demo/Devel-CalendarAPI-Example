@@ -1,12 +1,12 @@
 # Calendar API サンプルコード
 
-このサンプルでは、Calendar APIの使い方についてのコードを記載しています。
+このサンプルでは、Calendar APIを使用して、登録済みの予定を取得するサンプルを紹介します。
 
 ## ファイル構成
 ```
 トップ
 │
-├ README.md .. このファイル
+├ CalendarApiController.php .. サンプルコード
 │
-└ calendarapi_sample.gs .. サンプルコード
+└ README.md .. このファイル
 ```
